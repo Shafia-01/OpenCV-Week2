@@ -39,7 +39,7 @@ Controls:
 ## Deliverables
 
 * `report/Report.pdf` - the comprehensive report with sources and notes.
-* `diagrams/flow_diagram.png` - put your flow diagram or screenshot here.
+* `diagrams/flow_diagram.png` - flow diagram and generated screenshots.
 
 ## Notes on performance
 
