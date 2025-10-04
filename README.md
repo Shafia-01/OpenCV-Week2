@@ -38,8 +38,8 @@ Controls:
 
 ## Deliverables
 
-* `report/report.md` — the comprehensive report with sources and notes.
-* `diagrams/flow_diagram.png` — put your flow diagram or screenshot here.
+* `report/Report.pdf` - the comprehensive report with sources and notes.
+* `diagrams/flow_diagram.png` - put your flow diagram or screenshot here.
 
 ## Notes on performance
 
